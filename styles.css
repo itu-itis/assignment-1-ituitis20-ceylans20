@@ -31,8 +31,8 @@ ul.n {
   top: 0;
   width: 100%;
 }
-li { font-family:Garamond,serif;
-
+li { 
+font-family: font-family:Garamond,serif;
 }
 #wide{
 width:100%;
@@ -40,14 +40,14 @@ text-align:center;
 display:block;
 margin:auto;
 }
-#cim{
+.cim{
 width:50%;
 text-align:center;
 display:block;
 margin:auto;
 }
 
-#nav{
+.nav{
 	display:block;
 	color:white;
 	text-align:center;
