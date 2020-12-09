@@ -10,6 +10,7 @@ background-color:#55555;
 .container p{
 	font-size:20px;
 	margin:10px;
+	font-family:Garamond,serif;
 
 }
 .footer p{
@@ -30,7 +31,7 @@ ul.n {
   top: 0;
   width: 100%;
 }
-li { font-family: Arial, Helvetica, sans-serif;
+li { font-family:Garamond,serif;
 
 }
 #wide{
@@ -53,11 +54,13 @@ margin:auto;
 	float:left;
 	padding:14px 16px;
 	text-decoration:none;
-	font-family: Arial, Helvetica, sans-serif;
+	/*font-family: font-family:Garamond,serif;*/
+	font-family:Copperplate,fantasy;
 	width: 10%;
 	
 }
 h1{ text-align:center;
+font-family:Garamond,serif;
 	
 }
 #nav:hover:not(.active) {
