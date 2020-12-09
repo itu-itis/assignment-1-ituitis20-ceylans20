@@ -5,14 +5,18 @@ body {
 #main {
 padding-top:20px;
 margin-top:30px;
-background-color:#5555;
+background-color:#55555;
 }
-p{
+.container p{
 	font-size:20px;
-	margin:0px;
+	margin:10px;
 
 }
-
+.footer p{
+	font-size:20px;
+	margin-bottom:0px;
+	color:white;
+}
 #banner{
 height:160px;
 }
@@ -28,7 +32,6 @@ ul.n {
 }
 li { font-family: Arial, Helvetica, sans-serif;
 
-
 }
 #wide{
 width:100%;
@@ -42,6 +45,7 @@ text-align:center;
 display:block;
 margin:auto;
 }
+
 #nav{
 	display:block;
 	color:white;
@@ -69,9 +73,7 @@ h1{ text-align:center;
 	margin-left:200px;
 	margin-top:20px;
 }
-div.footer p{ color:white;
-	
-}
+
 div.container { margin:auto;
  display:block;
  width: 60%;
@@ -100,7 +102,7 @@ div.footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: grey;
+  background-color: #660000;
   text-align: center;
   margin:auto;
 }
